@@ -1,0 +1,15 @@
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (1, false, 'Penguin Classics', 1);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (2, false, 'Oxford University Press', 1);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (3, false, 'Cambridge University Press', 1);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (4, false, 'Nhà xuất bản Giáo dục Việt Nam', 2);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (5, false, 'Nhà xuất bản Văn học', 3);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (6, false, 'Nhà xuất bản Trẻ', 4);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (7, false, 'Penguin Classics', 5);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (8, false, 'Oxford University Press', 5);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (9, false, 'Random House', 6);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (10, false, 'Puffin Books', 7);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (11, false, 'Alfred A. Knopf', 7);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (12, false, 'Dân Trí', 8);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (13, false, 'Thanh Niên', 9);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (14, false, 'Kim Đồng', 10);
+INSERT INTO `book-ecommerce`.model (model_id, is_deleted, name, make_id) VALUES (15, false, 'Dân Trí', 11);

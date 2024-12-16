@@ -1,0 +1,11 @@
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (1, false, 'William Shakespeare');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (2, false, 'Nguyễn Du');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (3, false, 'Nam Cao');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (4, false, 'Nguyễn Nhật Ánh');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (5, false, 'Arthur Conan Doyle');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (6, false, 'Dr. Seuss');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (7, false, 'Roald Dahl');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (8, false, 'Thích Pháp Hòa');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (9, false, 'Little Rainbow');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (10, false, 'Sơn Tùng');
+INSERT INTO `book-ecommerce`.make (make_id, is_deleted, name) VALUES (11, false, 'Nguyễn Anh Dũng');

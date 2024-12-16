@@ -1,0 +1,1 @@
+INSERT INTO `book-ecommerce`.orders (order_id, delivery_date, description, grand_total, is_deleted, order_date, order_status, payment_method, shipping_method, shipping_total, sub_total, tax_rate, tax_total, customer_id) VALUES (1, '2024-07-01 11:19:23', null, 126, null, '2024-07-01 11:19:23', 'Pending', 'Cash On Delivery', 'Free Shipping', 0, 120, 5, 6, 1);
